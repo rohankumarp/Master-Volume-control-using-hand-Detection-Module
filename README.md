@@ -1,1 +1,1 @@
-# Master-Volume-control-using-hand-Detection-Module
+# Master-Volume-control-using-Hand-Tracking-Module
